@@ -14,13 +14,13 @@ const Social = () => {
         <Typography variant="h4">Social</Typography>
       </Box>
       <Box>
-        <IconButton href="https://linkedin.com/in/manojd929" target="_blank">
+        <IconButton href="https://linkedin.com/in/manojthetechguy" target="_blank">
           <LinkedIn />
         </IconButton>
-        <IconButton href="https://github.com/manojd929" target="_blank">
+        <IconButton href="https://github.com/manojthetechguy" target="_blank">
           <GitHub />
         </IconButton>
-        <IconButton href="https://twitter.com/manoj_d_" target="_blank">
+        <IconButton href="https://twitter.com/manojthetechguy" target="_blank">
           <Twitter />
         </IconButton>
         <IconButton href="https://instagram.com/manoj_d_" target="_blank">
